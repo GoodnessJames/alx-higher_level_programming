@@ -1,4 +1,4 @@
-# Higher-level Programming - Python
+# Higher-Level Programming - Python
 
 This repository contains programs written for higher-level programming (python) at ALX School. The specific list of projects contained in this repository includes:
 
