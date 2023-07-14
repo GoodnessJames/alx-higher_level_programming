@@ -3,7 +3,7 @@
 This repository contains programs written for higher-level programming (python) at ALX School. The specific list of projects contained in this repository includes:
 
 - [0x00. Python - Hello, World](./0x00-python-hello_world)
-- [0x01. Python - if/else,_loops,_functions](./0x01-python-if_else_loops_functions)
+- [0x01. Python - if/else, Loops, and Functions](./0x01-python-if_else_loops_functions)
 - [0x02. Python - Import_& Modules](./0x02-python-import_modules)
 - [0x03. Python - Data_Structures](./0x03-python-data_structures)
 
