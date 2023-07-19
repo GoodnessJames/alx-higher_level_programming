@@ -11,6 +11,5 @@ def best_score(a_dictionary):
     for i in a_dictionary:
         big_value = i if big_value is None else big_value
         if a_dictionary[i] > a_dictionary[big_value]:
-            big_value = i;
-            
+            big_value = i
     return big_value
