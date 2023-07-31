@@ -7,6 +7,7 @@ This repository contains programs written for higher-level programming (python) 
 - [0x02. Python - Import & Modules](./0x02-python-import_modules)
 - [0x03. Python - Data Structures: List, Tuples](./0x03-python-data_structures)
 - [0x04. Python - More Data Structures: Sets, Dictionaries](./0x04-python-more_data_structures)
+- [0x05. Python - Exceptions](./0x05-python-exceptions)
 
 ## Author
 Akoma Goodness James <[GoodnessJames](https://github.com/GoodnessJames)>
