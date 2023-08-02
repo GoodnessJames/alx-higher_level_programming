@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 2-square.py
-"""A class Square that defines a square based on 1-square.py."""
+"""A class that defines a square based on 1-square.py."""
 
 
 class Square:
