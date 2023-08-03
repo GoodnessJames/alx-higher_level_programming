@@ -5,7 +5,7 @@ import math
 
 
 class MagicClass:
-    """Initialize and define methods, area, and circumference."""
+    """Initialize and define area and circumference methods."""
     def __init__(self, radius=0):
         """Initialize MagicClass.
         Args:
