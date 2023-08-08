@@ -1,4 +1,4 @@
-# Python - Everything is object
+# Python - Everything is Object
 In this Project, I conducted an in-depth examination of object instantiation in the Python
 programming language. My exploration encompassed concepts such as variable aliasing, object identifiers,
 types, and mutability. The endeavor comprised a collection of quiz-style questions, for which I furnished
