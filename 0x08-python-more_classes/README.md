@@ -4,7 +4,7 @@ in Python. I delved into concepts such as class methods, static methods, distinc
 between class and instance attributes, and the effective implementation of the special methods
 `__str__` and `__repr__.`
 
-## Description of Project Task Files
+## Description of the Project Task Files
 
 * [tests](./tests): Folder of test files provided by ALX SE School.
 
