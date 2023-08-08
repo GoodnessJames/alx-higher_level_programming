@@ -1,6 +1,6 @@
 # Python - More Classes and Objects
 In the context of this project, I further honed my skills in object-oriented programming
-using Python. I delved into concepts such as class methods, static methods, distinctions
+in Python. I delved into concepts such as class methods, static methods, distinctions
 between class and instance attributes, and the effective implementation of the special methods
 `__str__` and `__repr__.`
 
