@@ -1,19 +1,19 @@
 # Python - Inheritance
-In the course of this project, I acquired knowledge about Python class inheritance.
+During this project, I acquired knowledge about Python class inheritance.
 My understanding deepened as I explored the distinctions between superclasses and subclasses through
-practical implementation of inheritance. This involved creating classes with multiple base classes
+the practical implementation of inheritance. This involved creating classes with multiple base classes
 and effectively overriding inherited methods and attributes.
 
-## Description of Project Task Files
+## Description of the Project Task Files
 
-* [tests](./tests): Folder of test files that includes both ALX-provided tests and the following
+* [tests](./tests): Folder of test files that include both ALX-provided tests and the following
 additional pair developed independently:
     * [1-my_list.txt](./1-my_list.txt)
     * [7-base_geometry.txt](./7-base_geometry.txt)
 
 * **0. Lookup**
   * [0-lookup.py](./0-lookup.py): Python function that returns a list of available attributes
-  and methods of an objects.
+  and methods of an object.
 
 * **1. My list**
   * [1-my_list.py](./1-my_list.py): Python class `MyList` that inherits from `list`. Includes:
