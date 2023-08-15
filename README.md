@@ -1,6 +1,6 @@
 # Higher-Level Programming - Python
 
-This repository contains programs developed for higher-level programming, specifically in Python, as a part of ALX SE School curriculum. The specific list of projects contained in this repository includes:
+This repository contains programs developed for higher-level programming, specifically in Python, as a part of ALX SE School curriculum. The repository encompasses a detailed catalog of the following projects:
 
 - [0x00. Python - Hello, World](./0x00-python-hello_world)
 - [0x01. Python - if/else, Loops, and Functions](./0x01-python-if_else_loops_functions)
