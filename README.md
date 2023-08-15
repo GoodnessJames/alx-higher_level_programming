@@ -12,6 +12,7 @@ This repository contains programs written for higher-level programming (python) 
 - [0x07. Python - Test Driven Development (TDD)](0x07-python-test_driven_development)
 - [0x08. Python - More Classes](0x08-python-more_classes)
 - [0x09. Python - Everything is Object](0x09-python-everything_is_object)
+- [0x0A. Python - Python Inheritance](0x0A-python-inheritance)
 
 ## Author
 Akoma Goodness James <[GoodnessJames](https://github.com/GoodnessJames)>
