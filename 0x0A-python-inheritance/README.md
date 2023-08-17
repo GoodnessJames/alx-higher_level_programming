@@ -4,7 +4,7 @@ My understanding deepened as I explored the distinctions between superclasses an
 the practical implementation of inheritance. This involved creating classes with multiple base classes
 and effectively overriding inherited methods and attributes.
 
-## Content Description of the Project Task Files
+## Description of the Project Task Files
 
 * [tests](./tests): Folder of test files that include both ALX-provided tests and the following
 additional pair developed independently:
