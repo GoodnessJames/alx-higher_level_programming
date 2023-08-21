@@ -14,6 +14,7 @@ This repository contains programs developed for higher-level programming, specif
 - [0x09. Python - Everything is Object](0x09-python-everything_is_object)
 - [0x0A. Python - Inheritance](0x0A-python-inheritance)
 - [0x0B. Python - Input/Output](0x0B-python-input_output)
+- [0x0C. Python - Almost a Circle](0x0C-python-almost_a_circle)
 
 ## Author
 Akoma Goodness James <[GoodnessJames](https://github.com/GoodnessJames)>
