@@ -4,7 +4,7 @@ by implementing three interconnected classes to depict rectangles and squares.
 I developed a comprehensive set of tests utilizing the unittest module to rigorously
 evaluate the functionality of each individual class.
 
-This projects reviews everything about Python and focuses on the following:
+This project reviews everything about Python and focuses on the following:
 * Import
 * Exceptions
 * Private attributes
@@ -27,7 +27,8 @@ test files:
 
 ### Classes
 
-- **Base**
+**Base**
+
 Represents a `Base` class for all other classes in the project. It includes:
 
 * Private class attribute `__nb_objects = 0`.
@@ -77,10 +78,10 @@ instantiated from a CSV file.
   * The parameter `list_squares` is expected to be a list of `Square` objects
   to print.
 
-- **Rectangle**
+**Rectangle**
 
 Represents a `Rectangle` class that inherits from `Base` with the following
-attrributes and methods:
+attributes and methods:
 
 * Private instance attributes `__width`, `__height`, `__x`, and `__y`.
   * Each private instance attribute features its own getter/setter.
@@ -112,7 +113,7 @@ of a `Rectangle` with the given attributes.
 * Public method `def to_dictionary(self):` that returns the dictionary
 representation of a `Rectangle` instance.
 
-- **Square**
+**Square**
 
 Represents a square. Inherits from `Rectangle` with:
 
@@ -128,7 +129,7 @@ of a `Square` with the given attributes.
     * 2nd arg: `size`
     * 3rd arg: `x`
     * 4th arg: `y`
-  * `**kwargs` is expected to be a double pointer to a dictoinary of new
+  * `**kwargs` is expected to be a double pointer to a dictionary of new
   key/value attributes to update the `Square` with.
   * `**kwargs` is skipped if `*args` exists.
 * Public method `def to_dictionary(self):` that returns the dictionary
