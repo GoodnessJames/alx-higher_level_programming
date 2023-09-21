@@ -8,13 +8,15 @@ This repository contains programs developed for higher-level programming, specif
 - [0x03. Python - Data Structures: List, Tuples](./0x03-python-data_structures)
 - [0x04. Python - More Data Structures: Sets, Dictionaries](./0x04-python-more_data_structures)
 - [0x05. Python - Exceptions](./0x05-python-exceptions)
-- [0x06. Python - Classes and Objects](0x06-python-classes)
-- [0x07. Python - Test Driven Development (TDD)](0x07-python-test_driven_development)
-- [0x08. Python - More Classes](0x08-python-more_classes)
-- [0x09. Python - Everything is Object](0x09-python-everything_is_object)
-- [0x0A. Python - Inheritance](0x0A-python-inheritance)
-- [0x0B. Python - Input/Output](0x0B-python-input_output)
-- [0x0C. Python - Almost a Circle](0x0C-python-almost_a_circle)
+- [0x06. Python - Classes and Objects](./0x06-python-classes)
+- [0x07. Python - Test Driven Development (TDD)](./0x07-python-test_driven_development)
+- [0x08. Python - More Classes](./0x08-python-more_classes)
+- [0x09. Python - Everything is Object](./0x09-python-everything_is_object)
+- [0x0A. Python - Inheritance](./0x0A-python-inheritance)
+- [0x0B. Python - Input/Output](./0x0B-python-input_output)
+- [0x0C. Python - Almost a Circle](./0x0C-python-almost_a_circle)
+- [0x0D. SQL    - Introduction](./0x0D-SQL_introduction)
+- [0x0E. SQL    - More queries](./0x0E-SQL_more_queries) 
 
 ## Author
 Akoma Goodness James <[GoodnessJames](https://github.com/GoodnessJames)>
