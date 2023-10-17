@@ -1,4 +1,4 @@
-# Javascript - Warm up
+# JavaScript - Warm up
 This is my first project in JavaScript at ALX Software Engineering. It involves
 basic scripting in JavaScript using Node.js. The tasks mainly covered the basics of JavaScript.
 
