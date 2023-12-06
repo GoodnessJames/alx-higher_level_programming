@@ -23,7 +23,7 @@ This repository contains programs developed for higher-level programming, specif
 - [0x10 Python - Network_#0](./0x10-python-network_0)
 - [0x11 Python - Network_#1](./0x11-python-network_1)
 - [0x12 Javascript - Warm_up](./0x12-javascript-warm_up)
-- [0x13 Javascript_- Objects_Scopes_Closures](./0x13-javascript_objects_scopes_closures)
+- [0x13 Javascript - Objects_Scopes_Closures](./0x13-javascript_objects_scopes_closures)
 - [0x14 Javascript - Web_Scraping](./0x14-javascript-web_scraping)
 
 ## Author
